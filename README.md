@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,4C1D95,6B21A8,8B5CF6,A78BFA&height=250&section=header&text=Enterprise%20Software%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%26%20AI%20Solutions&descAlignY=58&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Computer%20Science%20Student&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Building%20Physics%20%26%20Cybersecurity%20Projects" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Specialist;Full+Stack+Product+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Applied+Physics+Enthusiast;Cybersecurity+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/M.S.%20Computer%20Science-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/San%20Francisco,%20CA-6B21A8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/India-6B21A8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
 <br>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:deborudrade0@gmail.com"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/debo-flow"><img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 <br>
 <div align="center">
@@ -30,125 +30,109 @@
 
 ## ▎About
 
-As a **Senior Software Engineer**, I specialize in designing and deploying enterprise-grade distributed systems and high-throughput applications. My technical foundation is rooted in deep software engineering principles, optimized algorithms, and scalable microservices architectures. 
+I am a passionate **Computer Science Student** and self-taught developer specializing in applied physics simulations and advanced cybersecurity tooling. My technical foundation is rooted in complex mathematics, signal processing, and cryptography, translating heavy theoretical concepts into functional code.
 
-With significant **AI/ML expertise**, I integrate machine learning models into production pipelines, focusing on predictive analytics, large language models (LLMs), and automated data processing. My approach bridges the gap between complex data science and reliable **full-stack development**, ensuring seamless end-to-end user experiences.
+A core tenet of my engineering philosophy is **extreme optimization**. I architect and build my foundational portfolio—including a Quantum Key Distribution (QKD) simulator and a 3D electromagnetic wave propagation lab—relying on zero-dependency architectures and algorithmic efficiency. I thrive on learning by building and pushing the limits of resource-constrained environments.
 
-I operate with a **product engineering mindset**, meaning every technical decision is weighed against business impact, system reliability, and long-term maintainability. I thrive in high-stakes environments where performance, security, and scalability are non-negotiable.
-
-**Open To:** Senior Engineering Roles, Architecture Design, AI Integration Consulting, and High-Impact Open Source Collaborations.
+**Open To:** Internships, Research Collaborations, Open Source Contributions, and Junior Software Engineering Roles.
 
 ---
 
 ## ▎Tech Stack
 
-### Languages
+### Languages & Core
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,go,rust&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,markdown,c,cpp&theme=dark" alt="Languages" />
 </a>
 
-### Frontend
+### Tools & Environments
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,wasm&theme=dark" alt="Frontend" />
-</a>
-
-### Backend & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi,postgres,mysql,mongodb,redis,cassandra&theme=dark" alt="Backend and Databases" />
-</a>
-
-### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,terraform,kafka,nginx,linux&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash&theme=dark" alt="Tools" />
 </a>
 
 ---
 
-## ▎AI / ML Expertise
+## ▎Domain Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning & Neural Networks** | Advanced | PyTorch, TensorFlow, Keras. Architected CNNs for computer vision and RNNs/LSTMs for time-series forecasting. |
-| **Large Language Models (LLMs)** | Advanced | OpenAI API, HuggingFace, LangChain, LlamaIndex. Fine-tuning, RAG architecture, and prompt engineering. |
-| **Natural Language Processing (NLP)** | Intermediate | NLTK, SpaCy. Sentiment analysis, entity recognition, and automated document classification. |
-| **Data Engineering & Processing** | Advanced | Pandas, NumPy, Apache Spark. ETL pipeline construction, data sanitization, and distributed processing. |
-| **MLOps & Deployment** | Advanced | MLflow, AWS SageMaker, TensorRT. Model quantization, containerization, and low-latency API serving. |
+| **Applied Physics Simulations** | Advanced | FDTD (Finite-Difference Time-Domain) methodology, 3D electromagnetic wave propagation, and signal processing. |
+| **Cryptography & Security** | Advanced | AES-256 GCM encryption, PBKDF2 key derivation, Post-Quantum Cryptography (PQC), and Lattice-based mechanics. |
+| **Algorithm Optimization** | Advanced | Developing zero-dependency, lightweight applications optimized for highly constrained environments (2GB RAM limits). |
+| **Code Obfuscation** | Intermediate | Abstract Syntax Tree (AST) manipulation for enterprise-grade JavaScript obfuscation. |
 
 ---
 
 ## ▎Featured Projects
 
 <details>
-<summary><b>1. Distributed Payment Processing Engine</b></summary>
+<summary><b>1. Quantum-KEM-Simulator</b></summary>
 <br>
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Java, Spring Boot, Apache Kafka, PostgreSQL, Redis, Kubernetes |
-| **Scale** | Handles 10,000+ TPS (Transactions Per Second) globally. |
-| **Performance** | Maintained 99.99% uptime with sub-50ms processing latency. |
-| **Security** | End-to-end AES-256 encryption, PCI-DSS compliant architecture. |
-| **Impact** | Reduced transaction failure rate by 42% and operational costs by 20%. |
-| **Repository** | [Private Enterprise Project] |
+| **Stack** | HTML, JavaScript, WebRTC |
+| **Scale** | Research-grade hybrid simulator. |
+| **Performance** | Highly optimized to run quantum simulations on edge devices. |
+| **Security** | Implements Lattice-based Post-Quantum Cryptography (PQC). |
+| **Impact** | Demystifies Quantum Key Distribution (QKD) for applied research. |
+| **Repository** | [debo-flow/Quantum-KEM-Simulator](https://github.com/debo-flow/Quantum-KEM-Simulator) |
 
-This system was engineered to handle high-velocity financial transactions across multiple global regions. By leveraging Apache Kafka for event-driven processing and Redis for aggressive caching, the architecture prevents bottlenecks during peak traffic. It includes automated failover mechanisms and strict idempotent endpoints to ensure absolute transactional integrity.
+A research-grade Quantum Key Distribution (QKD) and Hybrid Post-Quantum Cryptography (PQC) simulator. Built without heavy dependencies, it leverages WebRTC for peer-to-peer simulation and integrates hardware USB Quantum Random Number Generation (QRNG) to simulate secure, quantum-resistant communication channels.
 </details>
 
 <details>
-<summary><b>2. Enterprise Retrieval-Augmented Generation (RAG) System</b></summary>
+<summary><b>2. vaultify</b></summary>
 <br>
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, LangChain, Pinecone, OpenAI, React |
-| **Scale** | Indexes over 5 million enterprise documents securely. |
-| **Performance** | Query retrieval and generation under 1.2 seconds. |
-| **Security** | Role-Based Access Control (RBAC) integrated vector retrieval. |
-| **Impact** | Accelerated internal technical support resolution times by 65%. |
-| **Repository** | [`github.com/debo-flow/enterprise-rag`](#) |
+| **Stack** | HTML, JavaScript, CSS |
+| **Scale** | Fully client-side, zero-dependency architecture. |
+| **Performance** | Instantaneous encryption/decryption entirely within the browser. |
+| **Security** | AES-256 GCM encryption, PBKDF2 key derivation, Have I Been Pwned API. |
+| **Impact** | Provides a highly secure, offline-capable password management solution. |
+| **Repository** | [debo-flow/vaultify](https://github.com/debo-flow/vaultify) |
 
-A sophisticated AI integration designed to democratize internal knowledge. The system ingests highly technical documentation, processes it into semantic embeddings, and stores it in a vector database. The custom LLM orchestration layer applies contextual guardrails, ensuring that generated answers are strictly constrained to verified proprietary data, eliminating hallucination risks.
+A completely client-side password manager designed with a zero-trust architecture. Vaultify avoids third-party dependencies, relying on native crypto APIs for AES-256 GCM encryption. It includes advanced features like PBKDF2 key derivation, automatic breach checking, and a built-in cryptographically secure password generator.
 </details>
 
 <details>
-<summary><b>3. Highly Available Content Delivery Analytics Platform</b></summary>
+<summary><b>3. 3D-Electromagnetics-Lab</b></summary>
 <br>
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Go, Next.js, ClickHouse, AWS (ECS, S3, CloudFront), Terraform |
-| **Scale** | Processes 50GB+ of telemetry data daily. |
-| **Performance** | Real-time dashboard rendering queries across 1B+ rows in <200ms. |
-| **Security** | IAM-secured infrastructure deployed via Infrastructure as Code (IaC). |
-| **Impact** | Provided executive stakeholders with zero-latency business intelligence. |
-| **Repository** | [`github.com/debo-flow/analytics-engine`](#) |
+| **Stack** | Python |
+| **Scale** | 3D spatial simulation framework. |
+| **Performance** | Matrix-optimized for heavy computational physics processing. |
+| **Impact** | Enables advanced visualization of electromagnetic wave behavior. |
+| **Repository** | [debo-flow/3D-Electromagnetics-Lab](https://github.com/debo-flow/3D-Electromagnetics-Lab) |
 
-Built from the ground up to replace an expensive legacy BI tool. Utilizing Go for the high-throughput data ingestion API and ClickHouse for columnar data storage, this platform excels at aggregations over massive datasets. The infrastructure is fully automated via Terraform, allowing seamless replication across isolated environments.
+A complex Python-based laboratory for 3D electromagnetic simulations. Utilizing the Finite-Difference Time-Domain (FDTD) method, this project visualizes EM wave propagation, antenna radiation patterns, and virtual anechoic environments, demonstrating a strong grasp of computational physics and advanced mathematics.
 </details>
 
 ---
 
 ## ▎Experience
 
-**Staff Software Engineer** | Tier-1 Global Tech Corporation  
-*Jan 2021 – Present*
+**Independent Researcher & Developer** | Open Source Community  
+*Jan 2023 – Present*
 
-Leading cross-functional engineering pods in the design and delivery of mission-critical cloud infrastructure. Architecting resilient microservices that serve millions of active users daily.
-*   Spearheaded the migration of a legacy monolithic application to a domain-driven microservices architecture, improving deployment frequency by 300%.
-*   Designed a unified telemetry strategy reducing mean-time-to-resolution (MTTR) for severity-1 incidents by 45%.
-*   Mentored a team of 12 mid-level engineers, establishing stringent code review standards and CI/CD best practices.
-`System Architecture` `Java` `Go` `Kubernetes` `AWS` `System Design`
+Leading the development of personal research projects focusing on complex physics simulations and cryptography tools without relying on heavy enterprise frameworks.
+*   Architected a zero-dependency password manager utilizing raw AES-256 GCM web APIs.
+*   Built and configured automated GitHub profiles directly from a low-end mobile device (2GB RAM), showcasing extreme resource management.
+`Cryptography` `JavaScript` `Python` `WebRTC` `System Optimization`
 
 <br>
 
-**Senior Software Engineer** | High-Growth FinTech Startup  
-*Jun 2017 – Dec 2020*
+**Open Source Contributor** | Student Developer  
+*Jun 2022 – Dec 2023*
 
-Engineered the core transaction ledger and user authentication protocols for a rapidly scaling financial platform.
-*   Developed a concurrent reconciliation engine capable of auditing 2M+ daily ledger entries with zero discrepancy tolerance.
-*   Implemented strict OAuth2.0 and biometric authentication flows, directly passing comprehensive external security audits.
-*   Optimized database indexing and query structures, reducing database CPU load by 60% during peak market hours.
-`Python` `Django` `PostgreSQL` `Redis` `Security`
+Focused on learning by building, contributing to small-scale open-source projects, and mastering core computer science principles.
+*   Developed a 3D electromagnetic wave simulation laboratory using Python.
+*   Experimented with JavaScript Abstract Syntax Tree (AST) for code obfuscation techniques.
+`Python` `Data Structures` `Algorithms` `Physics`
 
 ---
 
@@ -158,28 +142,11 @@ Engineered the core transaction ledger and user authentication protocols for a r
 
 | Recognition | Details |
 | :--- | :--- |
-| 🏆 **Top 1% Contributor** | Recognized among the top open-source contributors globally in Q3 2023. |
-| 🚀 **Hackathon Winner** | 1st Place out of 200 teams at Global Enterprise Hackathon for an AI optimization tool. |
-| 🛡️ **Security Bounty** | Awarded for discovering and patching a critical zero-day vulnerability in a popular OSS framework. |
-| 💡 **Patent Holder** | Co-inventor on US Patent for "Distributed Caching Methodology for High-Frequency Data". |
+| 🚀 **Self-Taught Builder** | Built 5+ complex full-stack and physics projects entirely on a mobile environment. |
+| 🛡️ **Cybersecurity Focus** | Successfully implemented Lattice-based Post-Quantum Cryptography in a web environment. |
+| 💡 **Continuous Learner** | Active contributor to GitHub, constantly exploring new algorithms and data structures. |
 
 </div>
-
----
-
-## ▎Certifications
-
-### AWS
-<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Professional-4C1D95?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA Pro" /> <img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Specialty-6B21A8?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE%2011%20Developer-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20and%20Algorithms-A78BFA?style=for-the-badge&logo=swayam&logoColor=white" alt="NPTEL DSA" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20and%20Switching-222222?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
 
 ---
 
@@ -242,44 +209,4 @@ Engineered the core transaction ledger and user authentication protocols for a r
 </div>
 
 ---
-## ▎Current Focus
-
-```yaml
-Focus:
-  Learning:
-    - "Advanced Rust for low-level performance optimization"
-    - "Distributed Consensus Algorithms (Raft, Paxos)"
-  Building:
-    - "An open-source LLM orchestration framework"
-    - "Scalable stateful microservices utilizing WebAssembly"
-  Exploring:
-    - "Edge computing architectures for localized machine learning"
-    - "Zero-knowledge proofs in modern cryptographic systems"
-  Open_To:
-    - "Architectural design consulting"
-    - "Speaking engagements on backend scalability"
-```
-
----
-
-## ▎Connect
-
-<div align="center">
-  <a href="mailto:deborudrade0@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/debo-flow"><img src="https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/debo-flow"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
----
-
-## ▎Footer
-
-<div align="center">
-  <i>"Engineering the future, one commit at a time."</i>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,4C1D95,6B21A8,8B5CF6,A78BFA&height=100&section=footer" width="100%" alt="Footer" />
-</div>
-
+▎
