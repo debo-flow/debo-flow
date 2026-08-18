@@ -106,18 +106,3 @@ I am Deborudra, an aspiring Software Engineer and AI/ML enthusiast based in Indi
 <br>
 
 ---
-<div align="center">
-
-  <!-- The Visual System (Face Scanning/Terminal) -->
-  <a href="https://gitskins.com">
-    <img src="https://gitskins.com/api/visual?username=debo-flow&theme=cyber" alt="Visual System" />
-  </a>
-
-  <br><br>
-
-  <!-- Chess Replay -->
-  <a href="https://gitskins.com">
-    <img src="https://gitskins.com/api/chess?username=debo-flow&theme=cyber" alt="Chess Replay" />
-  </a>
-
-</div>
