@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0033,4d0099,8000ff,330066&height=250&section=header&text=Deborudra&fontSize=70&fontAlignY=35&desc=Software%20Engineering%20Student%20&%20AI/ML%20Learner&descAlignY=55&fontColor=ffffff)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0033,4d0099,8000ff,330066&height=250&section=header&text=Deborudra&fontSize=70&fontAlignY=35&desc=Software%20Engineering%20Student%20&%20AI/ML%20Learner&descAlignY=55&fontColor=ffffff&animation=twinkling)
 
 <br>
 
@@ -139,7 +139,7 @@ Focused on academic learning, technical experimentation, and personal developmen
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debo-flow&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=C084FC&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/debo-flow)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debo-flow&background=0D1117&ring=C084FC&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C084FC&sideLabels=C084FC&dates=C9D1D9&hide_border=true)](https://github.com/debo-flow)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debo-flow&background=0D1117&ring=C084FC&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C084FC&sideLabels=C084FC&dates=C9D1D9&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=debo-flow)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debo-flow&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=true&layout=compact)](https://github.com/debo-flow)
 
@@ -190,23 +190,3 @@ Focused on academic learning, technical experimentation, and personal developmen
 <br>
 
 ---
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures and Algorithms
-  - Core principles of Artificial Intelligence and Machine Learning
-  - Software development lifecycles and modern architecture
-
-Building:
-  - Foundational academic projects
-  - Problem-solving competencies via continuous practice
-
-Exploring:
-  - Full-stack development ecosystems
-  - Cloud infrastructure concepts and deployment pipelines
-
-Open To:
-  - Mentorship and collaborative learning opportunities
-  - Entry-level internships in software engineering
