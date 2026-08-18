@@ -65,18 +65,6 @@ I am Deborudra, an aspiring Software Engineer and AI/ML enthusiast based in Indi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=debo-flow&theme=dracula&no-frame=true&no-bg=true&margin-w=15)](https://github.com/debo-flow)
-
-</div>
-
-<br>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
