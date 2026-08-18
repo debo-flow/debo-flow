@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0033,4d0099,8000ff,330066&height=250&section=header&text=Deborudra&fontSize=70&fontAlignY=35&desc=Software%20Engineering%20Student%20&%20AI/ML%20Learner&descAlignY=55&fontColor=ffffff&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0033,4d0099,8000ff,330066&height=250&section=header&text=Deborudra&fontSize=70&fontAlignY=35&desc=A%20Normal%20Student&descAlignY=55&fontColor=ffffff&animation=twinkling)
 
 <br>
 
@@ -49,8 +49,6 @@ I am a Science student gearing up for college next year, with a deep-rooted pass
 | **Repository** | [View My Repositories](https://github.com/debo-flow?tab=repositories) |
 
 *This section will be updated with professional project explanations, technical metrics, and deployment links once projects are verified and pushed to GitHub.*
-
-</details>
 
 <br>
 
