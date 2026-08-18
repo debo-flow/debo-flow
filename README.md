@@ -133,27 +133,6 @@ Focused on academic learning, technical experimentation, and personal developmen
 
 ---
 
-## 📜 Certifications
-
-*I believe in transparency and accuracy. Formal certifications will be displayed below with premium badges only once they are officially earned and verified.*
-
-- **AWS:** No certifications have been provided/verified yet.
-- **Oracle:** No certifications have been provided/verified yet.
-- **NPTEL:** No certifications have been provided/verified yet.
-- **Cisco:** No certifications have been provided/verified yet.
-
-<br>
-
----
-
-## 💻 Coding Profiles
-
-*Profiles for LeetCode, GeeksforGeeks, HackerRank, and CodeChef will be officially linked here once established and active.*
-
-<br>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
