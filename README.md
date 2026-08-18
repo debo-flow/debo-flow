@@ -39,55 +39,11 @@ I am Deborudra, an aspiring Software Engineer and AI/ML enthusiast based in Indi
 
 ## 🚀 Featured Projects
 
-*Real-world projects, system architectures, and verified codebases will be highlighted here as they are developed and published.*
-
-<details>
-<summary><strong>Project Portfolio Status</strong></summary>
-
-Currently focused on learning, researching, and building conceptual projects. Production-grade repositories will be linked here upon completion.
-
-| Category | Details |
-| :--- | :--- |
-| **Stack** | Exploring various technologies |
-| **Scale** | Academic and personal learning projects |
-| **Performance** | Focused on writing clean, foundational code |
-| **Security** | Studying secure coding practices |
-| **Impact** | Skill development and engineering foundation |
 | **Repository** | [View My Repositories](https://github.com/debo-flow?tab=repositories) |
 
 *This section will be updated with professional project explanations, technical metrics, and deployment links once projects are verified and pushed to GitHub.*
 
 </details>
-
-<br>
-
----
-
-## 💼 Experience
-
-**Student — Independent Software Engineering & AI/ML Development**
-*"Current"*
-
-Focused on academic learning, technical experimentation, and personal development in software engineering.
-- **Scope of work:** Building foundational knowledge in algorithms, data structures, and software architecture.
-- **Engineering responsibilities:** Developing personal study projects and analyzing modern computing paradigms.
-- **Technologies:** Utilizing core student tech stacks and version control tools for learning.
-- **Outcomes:** Expanding theoretical computer science knowledge into practical coding capabilities.
-
-<br>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Academic Milestones** | Verified achievements and competitive programming rankings will be added as they are earned. |
-| **Open Source** | Future contributions to community projects will be documented here. |
-
-</div>
 
 <br>
 
