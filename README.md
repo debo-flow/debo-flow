@@ -101,3 +101,7 @@ I am a Science student gearing up for college next year, with a deep-rooted pass
 <br>
 
 ---
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=d98a94,592b34&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Footer" />
+</div>
