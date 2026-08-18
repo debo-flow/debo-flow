@@ -33,46 +33,6 @@
 
 I am Deborudra, an aspiring Software Engineer and AI/ML enthusiast based in India. Currently a student, I am focused on building a rigorous foundation in computer science, software engineering principles, and artificial intelligence. My approach centers on a product engineering mindset—learning to build practical, scalable, and efficient software solutions from the ground up. I am passionate about continuous learning, solving complex problems, and exploring the intersection of full-stack development and machine learning.
 
-### Open To:
-- Software engineering opportunities
-- AI/ML opportunities
-- Internships
-- Open-source collaboration
-- Learning-focused technical projects
-
-<br>
-
----
-
-## ⚙️ Tech Stack
-
-*As a student actively building my engineering foundation, the following represents my conceptual learning focus areas.*
-
-**Languages**
-> Actively exploring core programming languages foundational to algorithms, data structures, and AI/ML development (e.g., Python, C/C++, Java).
-
-**Frontend**
-> Learning client-side architectures, UI/UX principles, and modern web presentation fundamentals (HTML, CSS, JavaScript).
-
-**Backend & Databases**
-> Studying server-side logic, API design, relational/NoSQL paradigms, and data management concepts (SQL, basic server architectures).
-
-**Cloud, DevOps & Tooling**
-> Building familiarity with version control, deployment workflows, and development environments (Git, GitHub, Linux basics).
-
-<br>
-
----
-
-## 🧠 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Machine Learning** | Foundational Learner | Studying core algorithms, statistical models, and predictive learning principles. |
-| **Deep Learning** | Explorer | Exploring neural network architectures and conceptual deep learning frameworks. |
-| **Data Processing** | Student | Learning data cleaning, preprocessing, and exploratory data analysis techniques. |
-| **AI Engineering** | Enthusiast | Investigating how to integrate AI models into practical software applications. |
-
 <br>
 
 ---
