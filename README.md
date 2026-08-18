@@ -31,7 +31,14 @@
 
 ## 👨‍💻 About Me
 
-I am Deborudra, an aspiring Software Engineer and AI/ML enthusiast based in India. Currently a student, I am focused on building a rigorous foundation in computer science, software engineering principles, and artificial intelligence. My approach centers on a product engineering mindset—learning to build practical, scalable, and efficient software solutions from the ground up. I am passionate about continuous learning, solving complex problems, and exploring the intersection of full-stack development and machine learning.
+Hi, I am **Deborudra**! 👋
+
+I am a Science student gearing up for college next year, with a deep-rooted passion for **Software Engineering** and **AI/ML**. I am constantly exploring the intersection of full-stack development and machine learning to build practical, scalable solutions with a product engineering mindset.
+
+*   🌱 **Currently:** Building a rigorous foundation in computer science and preparing for my upcoming college journey.
+*   🤝 **Goals:** I am highly enthusiastic about getting into **Open Source Contributions**. I am eager to collaborate with other developers, learn from the community, and build impactful projects.
+*   ⚡ **Fun Fact:** When I'm not coding or studying, you'll probably find me lost in the pages of a **Sci-Fi book**, exploring futuristic tech and distant galaxies! 🚀📚
+
 
 <br>
 
