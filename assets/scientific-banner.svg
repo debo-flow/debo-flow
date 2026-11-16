@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="50%" stop-color="#3fb950" />
+      <stop offset="100%" stop-color="#8957e5" />
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#21262d" stroke-width="0.7" />
+    </pattern>
+  </defs>
+
+  <rect width="900" height="180" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1.5" />
+  <rect width="900" height="180" rx="10" fill="url(#grid)" opacity="0.65" />
+
+  <!-- Subtle Mathematical Waveforms -->
+  <path d="M 0 135 Q 150 75, 300 135 T 600 135 T 900 135" fill="none" stroke="#58a6ff" stroke-width="1.2" opacity="0.22" />
+  <path d="M 0 145 Q 150 195, 300 145 T 600 145 T 900 145" fill="none" stroke="#3fb950" stroke-width="1.2" opacity="0.18" />
+
+  <!-- Header Typography -->
+  <text x="450" y="62" text-anchor="middle" fill="#f0f6fc" font-family="JetBrains Mono, Fira Code, monospace" font-size="28" font-weight="700">
+    Deborudra De · @debo-flow
+  </text>
+  <text x="450" y="98" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="17" font-weight="600">
+    Exploring Mathematics, Physics &amp; Computational Science
+  </text>
+  <text x="450" y="128" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13.5">
+    Building computational laboratories, scientific simulations, mathematical tools and software systems.
+  </text>
+
+  <!-- Accent Bar -->
+  <rect x="250" y="148" width="400" height="3" rx="1.5" fill="url(#accent)" />
+</svg>
